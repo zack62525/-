@@ -1,0 +1,26 @@
+{
+  "name": "鲸鲸的小屋",
+  "short_name": "鲸鲸小屋",
+  "description": "一间不大的房间，窗户朝南。可以走动、拖猫、看她睡觉。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0f14",
+  "theme_color": "#0d141b",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
